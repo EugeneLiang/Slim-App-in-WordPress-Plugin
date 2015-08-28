@@ -27,8 +27,4 @@ add_action('slim_mapping', function($slim) use ($MongoUser, $twig, $assets) {
 ```
 
 
-### Gotchas
-- if you use the default 404.php WordPress file in this theme, Slim will not load
-
-
 That's all for now.
