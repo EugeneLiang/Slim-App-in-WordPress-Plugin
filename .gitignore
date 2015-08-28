@@ -1,0 +1,25 @@
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Mac OSX
+._*
+.DS_Store
+
+# Log files
+logs
+*.log
+
+# Javascript
+.grunt
+node_modules
+bower_components
+npm-debug.log
+
+
+# vendor files
+vendor
+/vendor/**/.git

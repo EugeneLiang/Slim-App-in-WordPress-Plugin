@@ -1,0 +1,13 @@
+{
+  "require": {
+    "rmccue/requests": ">=1.0",
+    "facebook/php-sdk-v4" : "5.0.*",
+    "mandrill/mandrill": "1.0.*",
+    "mandrill/mandrill": "1.0.*",
+    "slim/slim":"*",
+    "slim/extras": "dev-master",
+    "predis/predis":"*",
+    "twig/twig": "*",
+    "twig/extensions": "~1.1.0"
+  }
+}
